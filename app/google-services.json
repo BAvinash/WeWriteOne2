@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "446137239488",
+    "firebase_url": "https://wewriteone2.firebaseio.com",
+    "project_id": "wewriteone2",
+    "storage_bucket": "wewriteone2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446137239488:android:980bef191b785c12",
+        "android_client_info": {
+          "package_name": "com.cratisspace.avinashbadramoni.wewriteone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446137239488-k274es55vnvenmn0b2a77a4es0c6k7id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cratisspace.avinashbadramoni.wewriteone",
+            "certificate_hash": "0d9aa268123d39964fbf23548da57baac4e79045"
+          }
+        },
+        {
+          "client_id": "446137239488-rse3mqq03v1js7c14vc89jdjgjcs1ocf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4J_fyXzTESP3er6fNoobATMw0vsV8YXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446137239488-rse3mqq03v1js7c14vc89jdjgjcs1ocf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

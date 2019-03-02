@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/backToHome"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:src="@drawable/ic_back2" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:text="All Record's"
+        android:textColor="@color/txt_color"
+        android:textSize="16sp" />
+
+</android.support.v7.widget.Toolbar>
